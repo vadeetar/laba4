@@ -90,4 +90,4 @@ Python
                     return reduce(multiply_with_print, numbers, 1)
 
                     print("\n=== Факториал с шагами ===")
-                    factorial_with_steps(5)
+                    factorial_with_steps(5)# Коммит Sun Jan 11 17:56:54 RTZ 2026
