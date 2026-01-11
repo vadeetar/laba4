@@ -77,4 +77,4 @@ Python
                     # 8. Map с filter
                     numbers = range(1, 11)
                     even_squares = list(map(square, filter(lambda x: x % 2 == 0, numbers)))
-                    print(f"\nКвадраты четных чисел 1-10: {even_squares}")  # [4, 16, 36, 64, 100]
+                    print(f"\nКвадраты четных чисел 1-10: {even_squares}")  # [4, 16, 36, 64, 100]# Коммит Sun Jan 11 17:56:55 RTZ 2026
