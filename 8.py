@@ -83,4 +83,4 @@ Python
                     print(f"Привет, {name}!")
                     return f"Приветствие для {name}"
 
-                    greet("Вадим")
+                    greet("Вадим")# Коммит Sun Jan 11 17:56:54 RTZ 2026
